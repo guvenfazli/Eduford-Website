@@ -257,3 +257,12 @@ h3{
     text-align: left;
     font-family: 'Poppins', sans-serif;
 }
+
+/*------ T E S T I M O N I A L S ------*/
+
+.testimonials{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
